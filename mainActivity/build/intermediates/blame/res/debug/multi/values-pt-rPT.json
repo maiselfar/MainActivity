@@ -1,0 +1,577 @@
+[
+    {
+        "outputFile": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\res\\merged\\debug\\values-pt-rPT\\values-pt-rPT.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 119,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 119,
+                        "endOffset": 410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 105,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 415,
+                        "endColumn": 105,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 106,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 106,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 88,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 628,
+                        "endColumn": 88,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 477,
+                    "endColumn": 100,
+                    "endOffset": 573
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 100,
+                        "endOffset": 813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 578,
+                    "endColumn": 123,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 818,
+                        "endColumn": 123,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 106,
+                    "endOffset": 804
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 106,
+                        "endOffset": 1044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 809,
+                    "endColumn": 111,
+                    "endOffset": 916
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1049,
+                        "endColumn": 111,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 921,
+                    "endColumn": 101,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1161,
+                        "endColumn": 101,
+                        "endOffset": 1258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1023,
+                    "endColumn": 107,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1263,
+                        "endColumn": 107,
+                        "endOffset": 1366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endColumn": 106,
+                    "endOffset": 1233
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1371,
+                        "endColumn": 106,
+                        "endOffset": 1473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1238,
+                    "endColumn": 106,
+                    "endOffset": 1340
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1478,
+                        "endColumn": 106,
+                        "endOffset": 1580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1345,
+                    "endColumn": 121,
+                    "endOffset": 1462
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1585,
+                        "endColumn": 121,
+                        "endOffset": 1702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1467,
+                    "endColumn": 123,
+                    "endOffset": 1586
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 123,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1591,
+                    "endColumn": 147,
+                    "endOffset": 1734
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 147,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1739,
+                    "endColumn": 93,
+                    "endOffset": 1828
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 93,
+                        "endOffset": 416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1833,
+                    "endColumn": 65,
+                    "endOffset": 1894
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 421,
+                        "endColumn": 65,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1899,
+                    "endColumn": 68,
+                    "endOffset": 1963
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 68,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1968,
+                    "endColumn": 62,
+                    "endOffset": 2026
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endColumn": 62,
+                        "endOffset": 614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2031,
+                    "endColumn": 73,
+                    "endOffset": 2100
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 619,
+                        "endColumn": 73,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2105,
+                    "endColumn": 79,
+                    "endOffset": 2180
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 79,
+                        "endOffset": 768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2185,
+                    "endColumn": 99,
+                    "endOffset": 2280
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 773,
+                        "endColumn": 99,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2285,
+                    "endColumn": 81,
+                    "endOffset": 2362
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 873,
+                        "endColumn": 81,
+                        "endOffset": 950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2367,
+                    "endColumn": 81,
+                    "endOffset": 2444
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 81,
+                        "endOffset": 1032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2449,
+                    "endColumn": 94,
+                    "endOffset": 2539
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1037,
+                        "endColumn": 94,
+                        "endOffset": 1127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2544,
+                    "endColumn": 115,
+                    "endOffset": 2655
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1132,
+                        "endColumn": 115,
+                        "endOffset": 1243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2660,
+                    "endColumn": 64,
+                    "endOffset": 2720
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1248,
+                        "endColumn": 64,
+                        "endOffset": 1308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2725,
+                    "endColumn": 68,
+                    "endOffset": 2789
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1313,
+                        "endColumn": 68,
+                        "endOffset": 1377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2794,
+                    "endColumn": 147,
+                    "endOffset": 2937
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1382,
+                        "endColumn": 147,
+                        "endOffset": 1525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2942,
+                    "endColumn": 61,
+                    "endOffset": 2999
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1530,
+                        "endColumn": 61,
+                        "endOffset": 1587
+                    }
+                }
+            }
+        ]
+    }
+]

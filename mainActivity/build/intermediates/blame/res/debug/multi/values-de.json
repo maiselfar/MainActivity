@@ -1,0 +1,577 @@
+[
+    {
+        "outputFile": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\res\\merged\\debug\\values-de\\values-de.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 104,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 104,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 97,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 97,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endColumn": 111,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 111,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 85,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 85,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endColumn": 104,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 104,
+                        "endOffset": 792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 114,
+                    "endOffset": 671
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 797,
+                        "endColumn": 114,
+                        "endOffset": 907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 676,
+                    "endColumn": 110,
+                    "endOffset": 782
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endColumn": 110,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 787,
+                    "endColumn": 102,
+                    "endOffset": 885
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1023,
+                        "endColumn": 102,
+                        "endOffset": 1121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 890,
+                    "endColumn": 98,
+                    "endOffset": 984
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1126,
+                        "endColumn": 98,
+                        "endOffset": 1220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 989,
+                    "endColumn": 110,
+                    "endOffset": 1095
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1225,
+                        "endColumn": 110,
+                        "endOffset": 1331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1100,
+                    "endColumn": 101,
+                    "endOffset": 1197
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1336,
+                        "endColumn": 101,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1202,
+                    "endColumn": 106,
+                    "endOffset": 1304
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endColumn": 106,
+                        "endOffset": 1540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1309,
+                    "endColumn": 121,
+                    "endOffset": 1426
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1545,
+                        "endColumn": 121,
+                        "endOffset": 1662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1431,
+                    "endColumn": 122,
+                    "endOffset": 1549
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 122,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1554,
+                    "endColumn": 132,
+                    "endOffset": 1682
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 132,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1687,
+                    "endColumn": 95,
+                    "endOffset": 1778
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 95,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1783,
+                    "endColumn": 70,
+                    "endOffset": 1849
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 407,
+                        "endColumn": 70,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1854,
+                    "endColumn": 74,
+                    "endOffset": 1924
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 74,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1929,
+                    "endColumn": 65,
+                    "endOffset": 1990
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endColumn": 65,
+                        "endOffset": 614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1995,
+                    "endColumn": 74,
+                    "endOffset": 2065
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 619,
+                        "endColumn": 74,
+                        "endOffset": 689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2070,
+                    "endColumn": 73,
+                    "endOffset": 2139
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 694,
+                        "endColumn": 73,
+                        "endOffset": 763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2144,
+                    "endColumn": 92,
+                    "endOffset": 2232
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 92,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2237,
+                    "endColumn": 74,
+                    "endOffset": 2307
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 74,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2312,
+                    "endColumn": 74,
+                    "endOffset": 2382
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 74,
+                        "endOffset": 1006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2387,
+                    "endColumn": 84,
+                    "endOffset": 2467
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1011,
+                        "endColumn": 84,
+                        "endOffset": 1091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2472,
+                    "endColumn": 100,
+                    "endOffset": 2568
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1096,
+                        "endColumn": 100,
+                        "endOffset": 1192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2573,
+                    "endColumn": 64,
+                    "endOffset": 2633
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1197,
+                        "endColumn": 64,
+                        "endOffset": 1257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2638,
+                    "endColumn": 65,
+                    "endOffset": 2699
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1262,
+                        "endColumn": 65,
+                        "endOffset": 1323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2704,
+                    "endColumn": 142,
+                    "endOffset": 2842
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1328,
+                        "endColumn": 142,
+                        "endOffset": 1466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2847,
+                    "endColumn": 61,
+                    "endOffset": 2904
+                },
+                "from": {
+                    "file": "C:\\Users\\alysh\\StudioProjects\\MainActivity\\mainActivity\\build\\intermediates\\exploded-aar\\MainActivity\\facebook\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1471,
+                        "endColumn": 61,
+                        "endOffset": 1528
+                    }
+                }
+            }
+        ]
+    }
+]
